@@ -20,7 +20,7 @@ module.exports = {
     lastUpdated: 'Last Updated',
     editLinks: true,
     docsDir: 'docs',
-    docsBranch: 'dev',
+    docsBranch: 'master',
     serviceWorker: {
       updatePopup: {
         message: 'New content is available.',
@@ -117,6 +117,7 @@ module.exports = {
                 '/zh/getting-started/introduction',
                 '/zh/getting-started/features',
                 '/zh/getting-started/quick-start',
+                '/zh/getting-started/script',
                 '/zh/getting-started/deployment',
                 '/zh/getting-started/discussion',
               ],
